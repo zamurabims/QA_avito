@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b92fef-b98a-40ea-bcb8-79461d8c2f8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.golangci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/BUGS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/helpers/assert.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/api/delet_item_api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/api/item_api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/api/statistic_api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/client/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/models/models.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/internal/suiteRun/suite.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/create_item_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/delete_item_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/get_item_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/get_seller_items_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/get_statistics_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/test/testdata/builder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1/BUGS.md" beforeDir="false" afterPath="$PROJECT_DIR$/task1/BUGS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/TESTCASES.md" beforeDir="false" afterPath="$PROJECT_DIR$/task2/TESTCASES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
