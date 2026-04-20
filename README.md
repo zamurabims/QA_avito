@@ -27,6 +27,7 @@
 1. **Склонируйте репозиторий:**
    ```bash
    git clone https://github.com/zamurabims/QA_avito.git
+   cd QA_avito
    cd task2
 
 2. **Установите зависимости:**
@@ -39,11 +40,14 @@
 
 ### С Allure-отчётом
 1. **Установить Allure CLI: `brew install allure` или [allurereport.org](https://allurereport.org/)**
+   ```bash
+   brew install allure
+   ```
 
    ```bash
-    ALLURE_RESULTS_DIR=./task2/test/allure-results go test ./task2/test/... -v
-    allure generate ./task2/test/allure-results --clean -o ./task2/allure-report
-    allure open ./task2/allure-report
+   ALLURE_RESULTS_DIR=./test/allure-results go test ./test/... -v
+   allure generate ./test/allure-results --clean -o ./allure-report
+   allure open ./allure-report
    ```
 ---
 
