@@ -1,0 +1,21 @@
+version: "2"
+
+run:
+  timeout: 2m
+  tests: true
+
+linters:
+  enable:
+    - govet
+    - errcheck
+    - staticcheck
+    - ineffassign
+
+linters-settings:
+  errcheck:
+    check-type-assertions: true
+    check-blank: true
+
+issues:
+  max-issues-per-linter: 0
+  max-same-issues: 0

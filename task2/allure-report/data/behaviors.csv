@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","3","GET /api/1/item/:id","3","0","","0"
+"0","","9","POST /api/1/item","7","0","","0"
+"0","","0","GET /api/1/:sellerID/item","5","0","","0"
+"0","","5","GET /api/1/statistic/:id","2","0","","0"
+"0","","3","DELETE /api/2/item/:id","2","0","","0"
